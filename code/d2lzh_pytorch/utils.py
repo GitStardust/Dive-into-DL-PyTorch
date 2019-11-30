@@ -10,6 +10,7 @@ from tqdm import tqdm
 from collections import namedtuple
 
 from IPython import display
+from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import pyplot as plt
 import torch
 from torch import nn
